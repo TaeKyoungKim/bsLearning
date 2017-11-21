@@ -1,1 +1,2 @@
 이것을 지금 설명 자료입니다.
+This is that Learning Git
